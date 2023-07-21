@@ -9,5 +9,5 @@
  * [fisher](https://github.com/jorgebucaran/fisher)
    * [Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox)
    * [jethrokuan/z](https://github.com/jethrokuan/z)
-   * [halostatue/fish-direnv](halostatue/fish-direnv)
+   * [halostatue/fish-direnv](https://github.com/halostatue/fish-direnv)
    * [isacikgoz/sashimi](https://github.com/isacikgoz/sashimi) is injected into functions/fish_prompt.fish
